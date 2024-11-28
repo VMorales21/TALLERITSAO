@@ -12,6 +12,7 @@
 <body>
     <div class="container-fluid" style="background:#90e8e4;text-align:center">
         <h1>BIENVENIDOS A ITSAO</h1>
+        <h1>Vianney Morales Zamora</h1>
         <img src="Cliente/img/ITSSMT.png" width="100" height="100">
     </div>
 
